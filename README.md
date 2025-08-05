@@ -8,7 +8,7 @@ Users can browse restaurants, add items to cart, and place orders — all from a
 
 ## 🚀 Live Demo
 
-🔗 Coming Soon  
+🔗 Project Demo:https://food-delivery-frontend-s2l9.onrender.com/ 
 📦 GitHub Repo: [https://github.com/gangadharthotakura/Food-Delivery-Using-FSD](https://github.com/gangadharthotakura/Food-Delivery-Using-FSD)
 
 ---
